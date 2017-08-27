@@ -1,2 +1,2 @@
-# ecommerce
-ecommerce-master
+# eCommerce-App
+eCommerce App in React Native
